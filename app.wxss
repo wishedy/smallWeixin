@@ -1,0 +1,30 @@
+/**app.wxss**/
+.container {
+    width: 100%;
+    height: 100vh;
+    margin-top: -10px;
+    display: block;
+    position: relative;
+    background: url("http://pic.qiantucdn.com/58pic/12/05/77/53w58PICBjg.jpg!/fw/780/watermark/url/L3dhdGVybWFyay12MS4zLnBuZw==/align/center/crop/1024x768a0a0") no-repeat center 50%;
+    background-size: cover;
+}
+.wish-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.wish-btn{
+    background: #F4D844;
+    color: #1e1a22;
+    font-size: 20px;
+    font-weight:600;
+    font-family: "Microsoft JhengHei";
+    border-radius: 5px;
+}
+.wish-create{
+    width: 200px;
+    height:20px ;
+    padding: 10px;
+    margin: 40px auto 0 auto;
+
+}

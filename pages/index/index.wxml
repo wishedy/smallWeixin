@@ -1,0 +1,10 @@
+<view class="container">
+    <view class="wish-container">
+        <view class="wish-inputBar">
+            <input type="text" placeholder="请输入您的名字" class="wish-name"/>
+        </view>
+        <view class="wish-create">
+            <button class="wish-btn" bindtap="createWish">生成我的新年汪汪</button>
+        </view>
+    </view>
+</view>

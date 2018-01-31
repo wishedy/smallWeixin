@@ -1,0 +1,10 @@
+.wish-inputBar{
+    border:1px solid #ddd;
+    height: 20px;
+    width: 200px;
+    padding: 10px;
+    background: #fff;
+    margin:220px auto 0 auto;
+    border-radius: 5px;
+}
+

@@ -1,0 +1,34 @@
+.wish-title{
+    width: 290px;
+    height: 40px;
+    margin: 140px auto 0 auto;
+}
+.wish-title{
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #f7ee5a;
+    font-family: "STFangsong";
+}
+.wish-des{
+    width: 260px;
+    height: 200px;
+    margin: 30px auto 0 auto;
+    line-height: 40px;
+    font-size: 32px;
+    font-weight: 400;
+    color: #f7ee5a;
+    display: flex;
+    font-family: 'STXingkai';
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.wish-create{
+    width: 200px;
+    height:20px ;
+    padding: 10px;
+    margin: 10px auto 0 auto;
+
+}

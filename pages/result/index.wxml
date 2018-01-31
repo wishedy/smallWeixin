@@ -1,0 +1,16 @@
+<view class="container">
+    <view class="wish-container">
+        <view class="wish-title">
+            <p>新的一年您是:</p>
+        </view>
+        <view class="wish-des">
+            <p>笑口常开</p>
+            <p>心想事成</p>
+            <p>身体健康</p>
+            <p>大展宏图</p>
+        </view>
+        <view class="wish-create">
+            <button class="wish-btn" >新年送祝福</button>
+        </view>
+    </view>
+</view>
